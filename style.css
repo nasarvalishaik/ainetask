@@ -51,13 +51,7 @@ p {
     color: black;
     border: 0;
 }
-.btn-upload:hover .btn{
-    padding: 8px 20px;
-    background: #2e6da4;
-    color: #fff;
-    border: 0;
-    
-}
+
 
 button, input, optgroup, select, textarea {
    
